@@ -1,5 +1,5 @@
 # Alexiou et al. 2024, Wildlife Biology
-(reference pending)
+DOI publication: [10.1002/wlb3.01261](https://doi.org/10.1002/wlb3.01261)
 
 ## Abstract
 
